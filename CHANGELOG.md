@@ -2,6 +2,10 @@
 
 All notable changes to `caprover-laravel` will be documented in this file.
 
+## 0.2.0 - 2022-09-13
+
+add php 8.2 support
+
 ## 0.1.3 - 2022-02-28
 
 **Full Changelog**: https://github.com/ariaieboy/caprover-laravel/compare/0.1.1...0.1.3
