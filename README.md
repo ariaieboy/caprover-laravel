@@ -1,3 +1,4 @@
+# This package is archived in favor of the https://github.com/ariaieboy/caprover-sdk/releases/tag/1.0.0
 # CapRover SDK for Laravel
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ariaieboy/caprover-laravel.svg?style=flat-square)](https://packagist.org/packages/ariaieboy/caprover-laravel)
